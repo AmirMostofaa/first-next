@@ -6,4 +6,6 @@
 - Routing
 - 404 Page
 - Auto Redirect to Home page
-- Fetching Data
+- Fetching JSON placeholder Data
+
+# [Live](https://first-next-five.vercel.app/)
