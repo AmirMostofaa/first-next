@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Amir Mostofaa | Home</title>
+      <title>Mostafa Mahmud | Home</title>
       <meta name="keywords" content="amir" />
     </Head>
 
